@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: fc9b2f5020654014c9ca8dc38e223e04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3841042119665126715
+    second: LetterConveer_Beaver_Head_part
+  - first:
+      213: -6099826594489724029
+    second: LetterConveer_Beaver_Ear
+  - first:
+      213: 6220196926524244621
+    second: LetterConveer_Beaver_Face_area
+  - first:
+      213: 8262024088153184995
+    second: LetterConveer_Beaver_Ear_inner_area
+  - first:
+      213: 6716971787466949847
+    second: LetterConveer_Beaver_Arm
+  - first:
+      213: 8784398069291969384
+    second: LetterConveer_Beaver_Arm_Hand
+  - first:
+      213: 1787922537448270969
+    second: LetterConveer_Beaver_Mouth_happy
+  - first:
+      213: -8044686486986419454
+    second: LetterConveer_Beaver_nose
+  - first:
+      213: -3026096022640958476
+    second: LetterConveer_Beaver_Mouth_happy_tongue
+  - first:
+      213: 8728937003505464368
+    second: LetterConveer_Beaver_Mouth_confused
+  - first:
+      213: 4200189178603603269
+    second: LetterConveer_Beaver_Eye_Happy
+  - first:
+      213: 518090376740615491
+    second: LetterConveer_Beaver_Smile
+  - first:
+      213: -3413565065342171037
+    second: LetterConveer_Beaver_Tail
+  - first:
+      213: 6490375743251847196
+    second: LetterConveer_Beaver_Eyelid
+  - first:
+      213: -3119331711622851241
+    second: LetterConveer_Beaver_Brows
+  - first:
+      213: -6188617406752026588
+    second: NumbersConveer_Beaver_Eye_Part
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_Head_part
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 214
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb72dbdcc77dc44ea810eb9fe6bc960
+      internalID: 3841042119665126715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_Ear
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 419
+        width: 106
+        height: 91
+      alignment: 9
+      pivot: {x: 0.42156118, y: 0.33684197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71097740ef1e7641bb0f12d4b6ea9c5
+      internalID: -6099826594489724029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_Face_area
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 333
+        width: 176
+        height: 178
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dfa95d46b5db940b12c66f831bc52d
+      internalID: 6220196926524244621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_Ear_inner_area
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 335
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b992f3a6921de73449456ae376f55f35
+      internalID: 8262024088153184995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_Arm
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 181
+        width: 65
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5129404, y: 0.87627774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones:
+      - name: bone_1
+        guid: 
+        position: {x: 30.920212, y: 149.96191, z: 0}
+        rotation: {x: 0, y: 0, z: -0.70037997, w: 0.7137702}
+        length: 80.463486
+        parentId: -1
+        color:
+          serializedVersion: 2
+          rgba: 0
+      - name: bone_2
+        guid: 
+        position: {x: 80.46349, y: 0.000005709065, z: 0}
+        rotation: {x: 0, y: 0, z: -0.004964415, w: 0.9999877}
+        length: 67.653114
+        parentId: 0
+        color:
+          serializedVersion: 2
+          rgba: 0
+      spriteID: cc4b201d2182d1444aa074dfee780b26
+      internalID: 6716971787466949847
+      vertices:
+      - {x: 59.375168, y: 19.803507}
+      - {x: 62.3553, y: 34.940804}
+      - {x: 65, y: 63.487682}
+      - {x: 64.912994, y: 78.45845}
+      - {x: 64.981995, y: 93.922}
+      - {x: 64.918, y: 109.29999}
+      - {x: 65, y: 124.517624}
+      - {x: 60.15016, y: 140.14615}
+      - {x: 48.94329, y: 150.48817}
+      - {x: 35.981308, y: 152}
+      - {x: 18.064516, y: 151.892}
+      - {x: 6.8048177, y: 143.16722}
+      - {x: 0.5596218, y: 130.96431}
+      - {x: 0.09799194, y: 99.298004}
+      - {x: 0.81700516, y: 70.763016}
+      - {x: 4.245332, y: 40.233013}
+      - {x: 6.578471, y: 21.450548}
+      - {x: 15.464723, y: 1.9437695}
+      - {x: 27.941082, y: 0}
+      - {x: 46.84869, y: 0}
+      - {x: 37.294373, y: 49.17566}
+      - {x: 36.422333, y: 127.84589}
+      - {x: 21.08316, y: 113.85516}
+      - {x: 30.82468, y: 26.340528}
+      - {x: 23.257568, y: 89.49292}
+      - {x: 23.533447, y: 65.18663}
+      - {x: 43.48581, y: 76.203674}
+      - {x: 42.965973, y: 103.32239}
+      - {x: 0.24398804, y: 112.944}
+      indices: 0f0000000e000000190000000100000000000000170000001a000000180000001b000000140000000200000001000000020000001a0000000300000014000000010000001700000004000000030000001a0000001b0000001600000015000000040000001a0000001b000000150000000900000008000000060000001b00000015000000150000000a00000009000000050000001b00000006000000060000001500000007000000040000001b0000000500000013000000170000000000000007000000150000000800000002000000140000001a00000018000000190000000e000000100000000f000000170000001700000012000000110000001a00000019000000180000000f00000019000000140000001700000013000000120000001100000010000000170000000c000000160000001c000000180000000e0000000d0000000d0000001c000000160000001b00000018000000160000000c0000000b000000160000000b0000000a0000001500000015000000160000000b000000180000000d0000001600000014000000170000000f0000001a0000001400000019000000
+      edges:
+      - {x: 1, y: 0}
+      - {x: 3, y: 2}
+      - {x: 4, y: 3}
+      - {x: 5, y: 4}
+      - {x: 6, y: 5}
+      - {x: 7, y: 6}
+      - {x: 8, y: 7}
+      - {x: 9, y: 8}
+      - {x: 10, y: 9}
+      - {x: 11, y: 10}
+      - {x: 12, y: 11}
+      - {x: 13, y: 28}
+      - {x: 16, y: 15}
+      - {x: 18, y: 17}
+      - {x: 19, y: 18}
+      - {x: 12, y: 28}
+      - {x: 13, y: 14}
+      - {x: 14, y: 15}
+      - {x: 0, y: 19}
+      - {x: 16, y: 17}
+      - {x: 1, y: 2}
+      weights:
+      - weight[0]: 0.75979257
+        weight[1]: 0.24020743
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.6630379
+        weight[1]: 0.3369621
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.5190183
+        weight[1]: 0.4809817
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.5824243
+        weight[1]: 0.41757572
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.68753386
+        weight[1]: 0.31246614
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.7922425
+        weight[1]: 0.20775747
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.8851337
+        weight[1]: 0.11486632
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.98009527
+        weight[1]: 0.019904733
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.99462795
+        weight[1]: 0.0053720474
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9972986
+        weight[1]: 0.0027014017
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9964559
+        weight[1]: 0.0035440922
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9804288
+        weight[1]: 0.019571185
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9414323
+        weight[1]: 0.058567703
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.73021793
+        weight[1]: 0.26978207
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.57642156
+        weight[1]: 0.42357844
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.5996422
+        weight[1]: 0.40035778
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.7193073
+        weight[1]: 0.2806927
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.7756542
+        weight[1]: 0.2243458
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.8119983
+        weight[1]: 0.18800169
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.8255007
+        weight[1]: 0.17449927
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.5875823
+        weight[1]: 0.4124177
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.94407403
+        weight[1]: 0.055925965
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.83404505
+        weight[1]: 0.16595495
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.7316421
+        weight[1]: 0.26835787
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.6623742
+        weight[1]: 0.3376258
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.5138546
+        weight[1]: 0.48614538
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.58471584
+        weight[1]: 0.41528416
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.77978075
+        weight[1]: 0.22021925
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.8246361
+        weight[1]: 0.1753639
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_Arm_Hand
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 286
+        width: 44
+        height: 45
+      alignment: 9
+      pivot: {x: 0.51037043, y: 0.9210897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd429abe81f7bf42a8fc6e0e5a4856c
+      internalID: 8784398069291969384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_Mouth_happy
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 263
+        width: 90
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4921597, y: 0.86814284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3841b04566b5d4b4fac328d9389a4fae
+      internalID: 1787922537448270969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_nose
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 277
+        width: 87
+        height: 55
+      alignment: 9
+      pivot: {x: 0.49451736, y: 0.79488134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fe1bc0aa1815f4e849bcdacc922be3
+      internalID: -8044686486986419454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_Mouth_happy_tongue
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 210
+        width: 82
+        height: 43
+      alignment: 9
+      pivot: {x: 0.50860447, y: 0.6640941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b7592c93a71884f86b9792a9f939c7
+      internalID: -3026096022640958476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_Mouth_confused
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 247
+        width: 79
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0063926d862a141adff4c25734c0a0
+      internalID: 8728937003505464368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_Eye_Happy
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 206
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2067971cbf95af24381f1683e0fc03c5
+      internalID: 4200189178603603269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_Smile
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 152
+        width: 67
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68495395b068d334491fb8b553432cab
+      internalID: 518090376740615491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_Tail
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 235
+        height: 141
+      alignment: 9
+      pivot: {x: 0.89370227, y: 0.5357911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159a5e98631f21b48ba2d8c6b66282d2
+      internalID: -3413565065342171037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_Eyelid
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 167
+        width: 112
+        height: 39
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 28, z: 0, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db8b904f8dabad408991b871ae93405
+      internalID: 6490375743251847196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Beaver_Brows
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 172
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff5153f96c75504fb91cb03c84b333f
+      internalID: -3119331711622851241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumbersConveer_Beaver_Eye_Part
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 137
+        width: 111
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdf0c82cc1caa743909367eb9b2b31c
+      internalID: -6188617406752026588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LetterConveer_Beaver_Mouth_confused: 8728937003505464368
+      LetterConveer_Beaver_Eye_Happy: 4200189178603603269
+      LetterConveer_Beaver_Arm: 6716971787466949847
+      LetterConveer_Beaver_Face_area: 6220196926524244621
+      LetterConveer_Beaver_Eyelid: 6490375743251847196
+      LetterConveer_Beaver_Ear: -6099826594489724029
+      LetterConveer_Beaver_Ear_inner_area: 8262024088153184995
+      LetterConveer_Beaver_Mouth_happy: 1787922537448270969
+      LetterConveer_Beaver_Smile: 518090376740615491
+      LetterConveer_Beaver_Mouth_happy_tongue: -3026096022640958476
+      LetterConveer_Beaver_Tail: -3413565065342171037
+      NumbersConveer_Beaver_Eye_Part: -6188617406752026588
+      LetterConveer_Beaver_Head_part: 3841042119665126715
+      LetterConveer_Beaver_nose: -8044686486986419454
+      LetterConveer_Beaver_Arm_Hand: 8784398069291969384
+      LetterConveer_Beaver_Brows: -3119331711622851241
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
